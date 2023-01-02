@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @asteve12335
 - 👀 I’m interested in python language
-- 🌱 I’m currently learning web dev with fastapi
 - 💞️ I’m looking to collaborate 
 
 <!---
